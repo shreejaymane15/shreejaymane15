@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreejaymane15
 - 👀 I’m interested in One Piece.
-- 🌱 I’m currently learning app development.
+- 🌱 I’m currently learning Full Stack Development.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me shreejaymane15@gmail.com
 <!---
