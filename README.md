@@ -5,7 +5,7 @@
     ### **Software Developer • Full-Stack & Systems Specialist**
 
     <p align="center">
-      <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-
+      <a href="https://linkedin.com/in/shreejaymane15"><img src="https://img.shields.io/badge/LinkedIn-
   0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
       <a href="https://github.com/shreejaymane15"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-
   badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -111,7 +111,7 @@
   app/api?username=shreejaymane15&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Stats"
   />
       <img src="https://github-readme-stats-fast.vercel.app/api/top-
-  langs/?username=shreejaymane15&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+  langs?username=shreejaymane15&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
     </div>
 
     <div align="center" style="margin-top: 10px;">
@@ -123,5 +123,4 @@
 
     <div align="center">
       <sub>⭐ Always building, learning, and exploring scalable software systems. Feel free to connect!</sub>
-    </div>
-  ──────
+    </div>    
